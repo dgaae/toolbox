@@ -62,5 +62,5 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 *.catz
-ToolBox/tools/cache/A0EQV01.eqvz
+*.eqvz
 *.pklz
