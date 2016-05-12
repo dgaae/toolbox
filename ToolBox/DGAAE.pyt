@@ -13,4 +13,4 @@ class Toolbox(object):
         self.alias = ""
 
         # List of tool classes associated with this toolbox
-        self.tools = [Equiv]
+        self.tools = [Equiv,Act_Equiv]
