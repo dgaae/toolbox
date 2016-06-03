@@ -12,4 +12,4 @@ class Toolbox(object):
         self.alias = ""
 
         # List of tool classes associated with this toolbox
-        self.tools = [Equiv,Act_Equiv,Estandariza_cenfemul,Coord,CAT_LOC,SIIPSO]
+        self.tools = [Equiv,Act_Equiv,Estandariza_cenfemul,Coord,CAT_LOC,SIIPSO,Pre_SEDESOL]
